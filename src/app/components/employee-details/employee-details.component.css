@@ -1,0 +1,23 @@
+.container{
+  margin-top: 30px;
+}
+.breadcrumb{
+  background-color: #000;
+}
+.breadcrumb-item{
+  color: #fff;
+}
+a{
+  color: #ff7846;
+  text-decoration: none;
+}
+.card{
+  border: none;
+}
+.card-title{
+  background-color: #ff7846;
+  height: auto;
+}
+.text-center{
+  color: #000;
+}

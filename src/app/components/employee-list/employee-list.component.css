@@ -1,0 +1,23 @@
+.container{
+  margin-top: 30px;
+}
+.breadcrumb{
+  background-color: #000;
+}
+.breadcrumb-item{
+  color: #fff;
+}
+a{
+  color: #ff7846;
+  text-decoration: none;
+}
+.img-thumbnail {
+  height: 100px;
+}
+.table-image td,
+.table-image th {
+  vertical-align: middle;
+}
+mat-paginator{
+  margin-top:1rem;
+}
